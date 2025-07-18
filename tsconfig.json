@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "send-email": "ts-node sendEmail.ts"
+  }
+}
